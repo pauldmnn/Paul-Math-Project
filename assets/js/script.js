@@ -1,1 +1,1 @@
-console.log("Connect on the browser!")
+console.log("Type")
